@@ -81,7 +81,7 @@ Look for error messages in **Logcat**:
 Should look exactly like this:
 ```properties
 sdk.dir=C\:\\Users\\...\\Android\\Sdk
-GEMINI_API_KEY=AIzaSyDiDaccsbAeCDjIHDLGaI0VkJLomGDLVNs
+GEMINI_API_KEY=AIzaS...
 ```
 
 **Important:**
